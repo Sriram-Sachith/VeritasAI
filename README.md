@@ -10,7 +10,7 @@
 
 Sorry For the Inconvenience
 
-# DataScientist Arena — AI Reliability & Data Science Benchmarking Platform
+# VeritasAI — AI Reliability & Data Science Benchmarking Platform
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18+-61dafb.svg)](https://react.dev/)
